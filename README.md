@@ -6,7 +6,7 @@ I build practical software around the things I actually use: Windows automation,
 
 - Windows desktop automation and power-profile tooling
 - Local-first web apps for data collection, review, and reporting
-- Minecraft server plugins, configuration systems, and gameplay tooling
+- Game tooling, local analytics, and server-side workflow automation
 - Python / Node.js / C# utilities that connect real devices, games, APIs, and documents
 - Clean Chinese-first product writing, documentation, and deployment notes
 
@@ -15,16 +15,13 @@ I build practical software around the things I actually use: Windows automation,
 | Project | What it shows |
 | --- | --- |
 | [BatteryAutoProfileApp](https://github.com/Spelight/BatteryAutoProfileApp) | Windows tray app, WinForms, WMI, powercfg, PnP device control, refresh-rate switching, careful AC/battery behavior |
-| [Custom-Crops](https://github.com/Spelight/Custom-Crops) | Minecraft server gameplay design, extensible plugin configuration, user-facing server mechanics |
-| [Aiyatsbus](https://github.com/Spelight/Aiyatsbus) | Kotlin plugin engineering, custom enchantment systems, server-side game feature architecture |
-| [HuskClaims](https://github.com/Spelight/HuskClaims) | Java plugin work, cross-server protection mechanics, maintainable server tooling |
-| [MW-PVP-Server](https://github.com/Spelight/MW-PVP-Server) | Minecraft server productization, gameplay environment setup, documentation for operators |
+| [Spelight.github.io](https://github.com/Spelight/Spelight.github.io) | Personal site entry point and static web publishing |
 
 ## Projects I'm Preparing
 
+- **Tabby Notepad++ SFTP Edit**: Tabby desktop plugin that edits remote SFTP files in Notepad++ and uploads changes on save.
 - **LoL Match Review**: local League of Legends match-review dashboard with LCU/SGP data collection, player trend analysis, and evidence-based coaching reports.
 - **Literature Site**: Python standard-library web backend with SQLite storage, recruitment/submission workflows, admin console, export tools, systemd and Nginx deployment.
-- **Tabby Notepad++ SFTP Edit**: Tabby desktop plugin that edits remote SFTP files in Notepad++ and uploads changes on save.
 - **EaseCation BedWars Anti-Cheat Lab**: TypeScript replay pipeline that simulates realtime anti-cheat detection from tick-based replay data without looking ahead.
 
 ## Engineering Style
@@ -33,5 +30,4 @@ I like software that is small enough to understand and sharp enough to be useful
 
 ## Tech I Use
 
-`C#` `WinForms` `PowerShell` `Windows APIs` `Python` `SQLite` `Node.js` `TypeScript` `Kotlin` `Java` `Minecraft Plugins` `Nginx` `systemd`
-
+`C#` `WinForms` `PowerShell` `Windows APIs` `Python` `SQLite` `Node.js` `TypeScript` `Kotlin` `Java` `Nginx` `systemd`
