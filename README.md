@@ -37,7 +37,9 @@
 
 ## 让校园文字拥有正式的去处
 
-<a href="https://www.dxir.net.cn/projects/literature/"><img align="right" src="assets/literature-cover.png" width="220" alt="知行小札 2024 年春季刊封面"></a>
+<p align="center">
+  <a href="https://www.dxir.net.cn/projects/literature/"><img src="assets/literature-cover.png" width="260" alt="知行小札 2024 年春季刊封面"></a>
+</p>
 
 我于 2024 年创立 **海南中学（美伦校区）校刊编辑部**，并继续担任顾问。编辑部把征稿、审读、排版、印刷和修订组织成持续工作的出版流程。
 
@@ -47,16 +49,16 @@
 
 [项目故事](https://www.dxir.net.cn/projects/literature/) · [校刊网站](https://literature.dxir.net.cn/) · [开源投稿系统](https://github.com/Spelight/literature-submission-site)
 
-<br clear="right">
-
 ## 我也把麻烦做成工具
 
-| Project | Why it exists | Built with |
-| --- | --- | --- |
-| [BatteryAutoProfileApp](https://github.com/Spelight/BatteryAutoProfileApp) | 让 Windows 笔记本在离电时自动省电、接电后可靠恢复性能 | C# · WinForms · Windows APIs |
-| [tabby-notepadpp-sftp-edit](https://github.com/Spelight/tabby-notepadpp-sftp-edit) | 在 Tabby 中用 Notepad++ 编辑远程文件，保存后自动上传 | TypeScript · SFTP |
-| [lol-match-review](https://github.com/Spelight/lol-match-review) | 在本地采集、整理和复盘英雄联盟对局，保留隐私边界和证据链 | JavaScript · LCU/SGP · CSV/JSON |
-| [literature-submission-site](https://github.com/Spelight/literature-submission-site) | 为校园刊物提供轻量、可部署、可审阅的招新与投稿工作流 | Python · SQLite · Nginx · systemd |
+- **[BatteryAutoProfileApp](https://github.com/Spelight/BatteryAutoProfileApp)** · `C#` `WinForms` `Windows APIs`  
+  让 Windows 笔记本在离电时自动省电、接电后可靠恢复性能。
+- **[tabby-notepadpp-sftp-edit](https://github.com/Spelight/tabby-notepadpp-sftp-edit)** · `TypeScript` `SFTP`  
+  在 Tabby 中用 Notepad++ 编辑远程文件，保存后自动上传。
+- **[lol-match-review](https://github.com/Spelight/lol-match-review)** · `JavaScript` `LCU/SGP` `CSV/JSON`  
+  在本地采集、整理和复盘英雄联盟对局，保留隐私边界和证据链。
+- **[literature-submission-site](https://github.com/Spelight/literature-submission-site)** · `Python` `SQLite` `Nginx` `systemd`  
+  为校园刊物提供轻量、可部署、可审阅的招新与投稿工作流。
 
 这些项目通常从一个我自己遇到的具体问题开始：重复操作太多、规则太难解释、数据散落各处，或者现成工具没有照顾真正使用它的人。我会把它们整理成可运行的程序、清楚的 README、安全默认值和可恢复的部署流程。
 
