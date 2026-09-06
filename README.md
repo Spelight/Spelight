@@ -16,7 +16,7 @@ I build practical software around the things I actually use: Windows automation,
 | --- | --- |
 | [BatteryAutoProfileApp](https://github.com/Spelight/BatteryAutoProfileApp) | Windows tray app, WinForms, WMI, powercfg, PnP device control, refresh-rate switching, careful AC/battery behavior |
 | [tabby-notepadpp-sftp-edit](https://github.com/Spelight/tabby-notepadpp-sftp-edit) | TypeScript Tabby plugin, SFTP file workflow, local editor integration, file watching, automatic remote upload |
-| [Spelight.github.io](https://github.com/Spelight/Spelight.github.io) | Personal site entry point and static web publishing |
+| [Spelight.github.io](https://github.com/Spelight/Spelight.github.io) | Static site for SeaWindTales and student literature/community publishing |
 
 ## Projects I'm Preparing
 
