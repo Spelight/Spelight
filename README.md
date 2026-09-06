@@ -1,44 +1,71 @@
-# Hi, I'm Dxir / 你好，我是 Dxir
+# 黄纬鑫 / Weixin Huang
 
-I build practical software around the things I actually use: Windows automation, local analytics, game tooling, Minecraft server systems, and lightweight web products that turn messy workflows into clear interfaces.
+**Dxir · English undergraduate at Beihang University · Beijing**
 
-我会围绕自己真实使用的场景做工具：Windows 自动化、本地数据分析、游戏工具、Minecraft 服务端系统，以及把复杂流程整理成清晰界面的轻量 Web 产品。
+[个人网站](https://www.dxir.net.cn/) · [English profile](https://www.dxir.net.cn/en/) · [CV](https://cv.dxir.net.cn/) · [Email](mailto:dxir@buaa.edu.cn) · [Bilibili](https://space.bilibili.com/424119061)
 
-My personal website describes this direction best: I turn scattered interests, data, and practice into things people can open, use, verify, and keep exploring.
+![黄纬鑫在航行星琼科普夏令营课堂授课](assets/weixin-huang.jpg)
 
-我的个人网站里有一句更准确的定位：把零散的兴趣、数据与实践，做成别人可以真正进入、使用、验证并继续探索的东西。
+我喜欢把复杂的规则写成清楚的文案，把零散的想法组织成可以协作的项目，也愿意为一小部分真实的人专门做课程、刊物或产品。
 
-## Focus / 关注方向
+我在北航学习英语，也持续参与游戏设计与内容运营、校园出版、中学生科普实践和实用工具开发。语言和技术对我而言并不冲突，它们都在帮助一件事被理解，并最终被人使用。
 
-| English | 中文 |
-| --- | --- |
-| Windows desktop automation and power-profile tooling | Windows 桌面自动化与电源策略工具 |
-| Local-first web apps for data collection, review, and reporting | 本地优先的数据采集、复盘与报告 Web 应用 |
-| Game tooling, analytics, and server-side workflow automation | 游戏工具、数据分析与服务端流程自动化 |
-| Python / Node.js / C# utilities connected to real devices, games, APIs, and documents | 连接真实设备、游戏、接口和文档的 Python / Node.js / C# 工具 |
-| Chinese-first product writing, documentation, and deployment notes | 中文优先的产品表达、文档与部署说明 |
+> I work where language meets systems: turning complicated rules, shared interests and real communities into things people can understand, use and keep building together.
 
-## Featured Projects / 代表项目
+## 把大学课堂带回海南
 
-| Project | English | 中文 |
+[![2025 年航行星琼科普夏令营结营合影](assets/navi-stars-camp.webp)](https://www.dxir.net.cn/projects/navi-stars/)
+
+我担任 **航行星琼实践队队长、办公室成员**。实践队在北航海南招生组指导下，组织大学生返乡，把航空航天、编程和项目式学习带进海南中学课堂。
+
+2024 至 2026 年，团队在 **三所学校开展五期活动**，累计覆盖 **500+ 名学生**，课程平均评分 **4.76/5**，并获北京航空航天大学招生办公室 **“领航实践队”** 称号。
+
+[项目故事](https://www.dxir.net.cn/projects/navi-stars/) · [实践队网站](https://navi-stars.dxir.net.cn/)
+
+## 游戏，是我学习系统设计的第一间教室
+
+<p>
+  <a href="https://www.dxir.net.cn/projects/easecation/"><img src="assets/easecation.jpg" width="49%" alt="EaseCation 官网主视觉"></a>
+  <a href="https://www.dxir.net.cn/projects/seawind-tales/"><img src="assets/seawind-town.webp" width="49%" alt="海风物语 Minecraft 服务器主城"></a>
+</p>
+
+在 **EaseCation**，我参与游戏设计、品牌内容与媒体运营，服务于总用户超 1 亿、日活约 8 万的 Minecraft 社区；直接对接 50+ 位创作者，累计独立产出 **80,000+ 字原创文案**。从玩法规则到周年栏目，我关心的是怎样把复杂系统转化为玩家愿意理解、参与和记住的体验。
+
+在 **海风物语**，我担任服主、策划与技术负责人。从文学社同学的一次联机开始，我们建立了一个由学生社团运营的全公益 Minecraft 社区，累计连接 **400+ 名玩家**，玩家来自海南约 **70% 的中学**。
+
+[EaseCation](https://www.dxir.net.cn/projects/easecation/) · [海风物语](https://seawindtales.top/) · [游戏本地化与插件协作](https://www.dxir.net.cn/projects/localization/)
+
+## 让校园文字拥有正式的去处
+
+<a href="https://www.dxir.net.cn/projects/literature/"><img align="right" src="assets/literature-cover.png" width="220" alt="知行小札 2024 年春季刊封面"></a>
+
+我于 2024 年创立 **海南中学（美伦校区）校刊编辑部**，并继续担任顾问。编辑部把征稿、审读、排版、印刷和修订组织成持续工作的出版流程。
+
+- 《知行小札》累计售出 **200+ 册**，现由知行文学社接续运营
+- 英文校报 **Voice of Meilun** 已发行 **10+ 期**
+- 校刊网站同时提供招新、投稿、账号记录和编辑批示流程
+
+[项目故事](https://www.dxir.net.cn/projects/literature/) · [校刊网站](https://literature.dxir.net.cn/) · [开源投稿系统](https://github.com/Spelight/literature-submission-site)
+
+<br clear="right">
+
+## 我也把麻烦做成工具
+
+| Project | Why it exists | Built with |
 | --- | --- | --- |
-| [BatteryAutoProfileApp](https://github.com/Spelight/BatteryAutoProfileApp) | Windows tray app for battery-only power automation, refresh-rate switching, topmost notifications, PnP touchscreen control, and AC-safe recovery. | Windows 托盘电源自动化工具：离电省电、接电恢复、刷新率切换、置顶通知、触摸屏控制，并保证接电性能不受影响。 |
-| [lol-match-review](https://github.com/Spelight/lol-match-review) | Local-first League of Legends review dashboard using LCU/SGP collection, evidence-style reports, privacy boundaries, and CSV/JSON export. | 本地优先的英雄联盟复盘仪表盘：LCU/SGP 采集、证据化报告、隐私边界和 CSV/JSON 导出。 |
-| [tabby-notepadpp-sftp-edit](https://github.com/Spelight/tabby-notepadpp-sftp-edit) | TypeScript Tabby plugin that opens remote SFTP files in Notepad++ and auto-uploads changes after save. | TypeScript Tabby 插件：远程 SFTP 文件一键用 Notepad++ 编辑，保存后自动上传。 |
-| [literature-submission-site](https://github.com/Spelight/literature-submission-site) | Sanitized campus publication recruitment/submission system with SQLite, editor console, account workflow, exports, Nginx, and systemd templates. | 已脱敏的校园刊物招新/投稿系统：SQLite、编辑后台、账号投稿、导出工具、Nginx 与 systemd 部署模板。 |
-| [Spelight.github.io](https://github.com/Spelight/Spelight.github.io) | Personal static site for presenting projects, writing, and public-facing practice in a cleaner narrative. | 个人静态网站，用来展示项目、文字和公开实践，让 GitHub 与简历叙事更统一。 |
+| [BatteryAutoProfileApp](https://github.com/Spelight/BatteryAutoProfileApp) | 让 Windows 笔记本在离电时自动省电、接电后可靠恢复性能 | C# · WinForms · Windows APIs |
+| [tabby-notepadpp-sftp-edit](https://github.com/Spelight/tabby-notepadpp-sftp-edit) | 在 Tabby 中用 Notepad++ 编辑远程文件，保存后自动上传 | TypeScript · SFTP |
+| [lol-match-review](https://github.com/Spelight/lol-match-review) | 在本地采集、整理和复盘英雄联盟对局，保留隐私边界和证据链 | JavaScript · LCU/SGP · CSV/JSON |
+| [literature-submission-site](https://github.com/Spelight/literature-submission-site) | 为校园刊物提供轻量、可部署、可审阅的招新与投稿工作流 | Python · SQLite · Nginx · systemd |
 
-## Engineering Style / 工程风格
+这些项目通常从一个我自己遇到的具体问题开始：重复操作太多、规则太难解释、数据散落各处，或者现成工具没有照顾真正使用它的人。我会把它们整理成可运行的程序、清楚的 README、安全默认值和可恢复的部署流程。
 
-I like software that is small enough to understand and sharp enough to be useful. My projects usually start from a real workflow, then get shaped into something reproducible: a README, a config file, a build script, safe defaults, privacy boundaries, and deployment notes.
+## 现在 / Now
 
-我喜欢足够小、能读懂，也足够实用的软件。我的项目通常从一个真实流程开始，然后整理成可复现的东西：README、配置文件、构建脚本、安全默认值、隐私边界和部署说明。
+- 在 **Esh Group** 参与游戏设计、品牌内容与媒体运营
+- 负责 **北航招生协会新媒体工作**，参与学校整体招生与在琼招生工作
+- 担任 **大学计算机基础课程助教**，维护面向初学者的编程练习支持
+- 继续推进 **航行星琼、Navi OJ、校园出版与游戏本地化**
+- 主修英语，也一直在学不会但很想学会的东西
 
-## Tech I Use / 技术栈
-
-`C#` `WinForms` `PowerShell` `Windows APIs` `Python` `SQLite` `Node.js` `TypeScript` `Kotlin` `Java` `Nginx` `systemd`
-
-## Preparing / 准备中
-
-- **EaseCation BedWars Anti-Cheat Lab**: TypeScript replay pipeline that simulates realtime anti-cheat detection from tick-based replay data without looking ahead.
-- **EaseCation BedWars Anti-Cheat Lab**：基于 tick 回放数据的 TypeScript 反作弊实验管线，模拟实时检测，不偷看未来数据。
+我的完整项目与文字在 [www.dxir.net.cn](https://www.dxir.net.cn/)。很高兴认识你。
