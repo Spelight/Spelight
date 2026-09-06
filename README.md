@@ -15,11 +15,11 @@ I build practical software around the things I actually use: Windows automation,
 | Project | What it shows |
 | --- | --- |
 | [BatteryAutoProfileApp](https://github.com/Spelight/BatteryAutoProfileApp) | Windows tray app, WinForms, WMI, powercfg, PnP device control, refresh-rate switching, careful AC/battery behavior |
+| [tabby-notepadpp-sftp-edit](https://github.com/Spelight/tabby-notepadpp-sftp-edit) | TypeScript Tabby plugin, SFTP file workflow, local editor integration, file watching, automatic remote upload |
 | [Spelight.github.io](https://github.com/Spelight/Spelight.github.io) | Personal site entry point and static web publishing |
 
 ## Projects I'm Preparing
 
-- **Tabby Notepad++ SFTP Edit**: Tabby desktop plugin that edits remote SFTP files in Notepad++ and uploads changes on save.
 - **LoL Match Review**: local League of Legends match-review dashboard with LCU/SGP data collection, player trend analysis, and evidence-based coaching reports.
 - **Literature Site**: Python standard-library web backend with SQLite storage, recruitment/submission workflows, admin console, export tools, systemd and Nginx deployment.
 - **EaseCation BedWars Anti-Cheat Lab**: TypeScript replay pipeline that simulates realtime anti-cheat detection from tick-based replay data without looking ahead.
